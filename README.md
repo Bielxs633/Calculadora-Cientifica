@@ -12,10 +12,10 @@ Este projeto é uma **Calculadora Científica**. A calculadora realiza operaçõ
 ---
 
 ## Funcionalidades
-- Operações matemáticas básicas: **+**, **-**, **\***, **/**
-- Funções científicas: **exp**, **log**, **sen**, **cos**, **tan**
-- Funções de radiciação: **raiz quadrada**
-- Botões de limpeza
+1. Operações matemáticas básicas: **+**, **-**, **\***, **/**
+2. Funções científicas: **exp**, **log**, **sen**, **cos**, **tan**
+3. Funções de radiciação: **raiz quadrada**
+4. Botões de limpeza
 
 ---
 
